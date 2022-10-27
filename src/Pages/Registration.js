@@ -4,6 +4,6 @@ export default function Registration()
 {
     return(
 <div className="color">
-<p>This is registartion page</p>
+<p>This is registartion pages</p>
     </div>)
 }
